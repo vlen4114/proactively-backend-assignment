@@ -34,6 +34,7 @@ cd proactively-backend-assignment
 
 ### 2. Install Dependencies
 ```bash
+npm install --save-dev nodemon
 npm install express mysql2 sequelize jsonwebtoken bcrypt dotenv nodemailer googleapis
 
 ```
