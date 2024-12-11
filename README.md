@@ -1,5 +1,6 @@
 # Proactively Backend Assignment
-
+## API Endpoints
+Refer the document: https://docs.google.com/document/d/1a5IDVq3qI53HB7s1rmdM85PPMyV6THXGUvUkbtXvbxE/edit?usp=sharing
 This project is a **Session Management API** that allows users to book sessions with speakers, block time slots, and manage schedules effectively. The API also integrates email notifications and Google Calendar events to enhance user experience.
 
 ## Features
